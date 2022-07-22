@@ -3,5 +3,7 @@ Working with repetition structures.
 
 Today i developed some nice programs to training and for fun :)
 
+The Exercises is in Program.cs;
+
 Console.WriteLine("C#");
 Console.ReadLine();
